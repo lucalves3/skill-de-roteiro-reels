@@ -36,16 +36,18 @@ Use sempre este modelo (adapte as linhas ao conteúdo):
 ```markdown
 ## Roteiro N: <título interno>
 **Duração estimada:** ~35 s · **Formato:** <Top 5 / tutorial / ...>
-**Gancho (0-3s):** "<fala>"
 
 | # | Fala | Visual |
 |---|------|--------|
+| Gancho (0-3s) | "<fala>" | <o que aparece na tela> |
 | 5 | "<fala curta>" | <o que aparece na tela> |
 | ... | ... | ... |
+| CTA | "<fala>" | <o que aparece na tela> |
 
-**CTA:** "<fala>"
 **Legenda do post:** <1-2 linhas + 3 a 5 hashtags>
 ```
+
+Gancho e CTA são linhas da própria tabela, a primeira e a última, para o criador ler o vídeo inteiro, do começo ao fim, em um só lugar. Só a duração, o formato e a legenda ficam fora do quadro.
 
 A coluna **Visual** é parte do roteiro, não enfeite: diga o que mostrar (tela da ferramenta, antes/depois, texto grande, zoom). Se o criador não tem o material, sugira uma alternativa simples.
 
