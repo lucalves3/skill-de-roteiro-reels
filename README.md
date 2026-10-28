@@ -2,7 +2,15 @@
 
 Skill do Claude que cria roteiros de vídeos curtos (Reels, TikTok, YouTube Shorts) para qualquer nicho: gancho, falas, direção visual e CTA em tabela pronta para gravar.
 
-## Como instalar
+## Instalação rápida (Claude Code)
+
+Cole esta frase no Claude Code e ele instala para você:
+
+> Instala a skill deste repositório: https://github.com/lucalves3/skill-de-roteiro-reels
+
+Ele clona o repositório em `~/.claude/skills/roteiro-reels`. A skill passa a valer normalmente a partir da próxima sessão.
+
+## Como instalar manualmente
 
 **Claude Code**
 
